@@ -1,7 +1,5 @@
 import sys
 import os
-
-sys.path.append(os.path.join(os.path.dirname(__file__), 'c:\site-packages'))
 import cv2 as cv
 import numpy as np
 # import matplotlib.pyplot as plt
